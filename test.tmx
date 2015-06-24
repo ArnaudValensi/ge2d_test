@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="3" height="4" tilewidth="101" tileheight="40">
+ <tileset firstgid="1" name="Test" tilewidth="101" tileheight="160">
+  <image source="Test.png" width="404" height="513"/>
+ </tileset>
+ <tileset firstgid="13" name="set_link" tilewidth="24" tileheight="24">
+  <image source="sprites/maplestory/set_link.png" width="64" height="48"/>
+ </tileset>
+ <layer name="Calque de Tile 1" width="3" height="4">
+  <data>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="1"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+  </data>
+ </layer>
+ <layer name="Calque 2" width="3" height="4">
+  <data>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="4"/>
+   <tile gid="13"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+  </data>
+ </layer>
+</map>

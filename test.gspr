@@ -1,0 +1,30 @@
+<sprite>
+  <anim name="walk_face" frequency="10">
+    <image path="sprites/player/walk_b1.png" />
+    <image path="sprites/player/walk_b2.png" />
+    <image path="sprites/player/walk_b3.png" />
+    <image path="sprites/player/walk_b4.png" />
+    <image path="sprites/player/walk_b5.png" />
+    <image path="sprites/player/walk_b6.png" />
+    <image path="sprites/player/walk_b7.png" />
+    <image path="sprites/player/walk_b8.png" />
+  </anim>
+  <anim name="walk_face2" frequency="10">
+    <image path="sprites/player2/walk_b1.png" />
+    <image path="sprites/player2/walk_b2.png" />
+    <image path="sprites/player2/walk_b3.png" />
+    <image path="sprites/player2/walk_b4.png" />
+    <image path="sprites/player2/walk_b5.png" />
+    <image path="sprites/player2/walk_b6.png" />
+    <image path="sprites/player2/walk_b7.png" />
+    <image path="sprites/player2/walk_b7.png" />
+    <image path="sprites/player2/walk_b7.png" />
+    <image path="sprites/player2/walk_b7.png" />
+    <image path="sprites/player2/walk_b7.png" />
+    <image path="sprites/player2/walk_b7.png" />
+    <image path="sprites/player2/walk_b7.png" />
+    <image path="sprites/player2/walk_b7.png" />
+    <image path="sprites/player2/walk_b7.png" />
+    <image path="sprites/player2/walk_b7.png" />
+  </anim>
+</sprite>

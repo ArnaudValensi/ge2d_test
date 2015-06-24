@@ -1,0 +1,18 @@
+<sprite>
+  <tileset name="link" tilewidth="80" tileheight="78" source="sprites/maplestory/set_windrider.png"/>
+  <anim name="walk_face2" frequency="5">
+    <image tileset="link" sprite_num="0" />
+    <image tileset="link" sprite_num="1" />
+    <image tileset="link" sprite_num="2" />
+    <image tileset="link" sprite_num="3" />
+  </anim>
+  <anim name="walk_face" frequency="5">
+    <image path="sprites/player/walk_b1.png" />
+    <image path="sprites/player/walk_b2.png" />
+    <image path="sprites/player/walk_b3.png" />
+    <image path="sprites/player/walk_b4.png" />
+    <image path="sprites/player/walk_b5.png" />
+    <image path="sprites/player/walk_b6.png" />
+    <image path="sprites/player/walk_b7.png" />
+  </anim>
+</sprite>
